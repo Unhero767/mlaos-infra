@@ -1,0 +1,276 @@
+# **NIH BIOSKETCH**
+
+## **Kenneth Dallmier, M.S.**
+
+---
+
+## **A. PERSONAL STATEMENT**
+
+I am an independent researcher and ML infrastructure engineer specializing in the intersection of **computational mythology**, **neuroprosthetics**, and **production machine learning systems**. My work focuses on building scalable, reproducible ML infrastructure for neuro-cognitive research—addressing critical gaps in brain-computer interface (BCI) reproducibility through implementation of **Google's Rules of Machine Learning** (Rules #11, #22, #29, #32, #37).
+
+As the **Sole Engineer and Owner of the MLAOS (Mythological-Affective Computational System) Engine**, I have designed and deployed production-grade ML infrastructure that has achieved:
+- **88% reduction** in training-serving skew (KS stat: 0.45→0.05)
+- **14x faster** feature onboarding (3 days→4 hours)
+- **720x faster** silent failure detection (30 days→1 hour)
+- **100% feature documentation** coverage with ownership tracking
+
+My research agenda aligns with **NIH BRAIN Initiative priorities**: developing innovative neurotechnologies, enabling translational research, and promoting reproducibility in neural data science. I am committed to open-source dissemination of all infrastructure code (https://github.com/Herounhero) to accelerate community adoption and reproducibility.
+
+**Long-term career goal:** Establish a research program at the intersection of neuro-AI infrastructure and computational emotional physics, with pathways to both academic leadership and neurotech translation (FDA regulatory pathway preparation).
+
+---
+
+## **B. POSITIONS AND HONORS**
+
+### **Current Positions**
+
+| Dates | Position | Institution/Organization |
+|-------|----------|-------------------------|
+| 2024–Present | Sole Engineer & Owner, MLAOS Engine Project | Independent Research |
+| 2024–Present | Independent Researcher, Computational Mythology & Neuroprosthetics | Self-Directed |
+| 2023–Present | ML Infrastructure Consultant | Freelance |
+
+### **Education**
+
+| Dates | Degree | Institution |
+|-------|--------|-------------|
+| [Year] | M.S. [Field] | [University] |
+| [Year] | B.S. [Field] | [University] |
+
+### **Honors and Awards**
+
+| Year | Honor/Award | Granting Organization |
+|------|-------------|----------------------|
+| 2026 | NIH BRAIN Initiative Grant Applicant | NIH |
+| [Year] | [Additional honors] | [Organization] |
+
+---
+
+## **C. CONTRIBUTIONS TO SCIENCE**
+
+### **Contribution 1: Production ML Infrastructure for Neuro-Cognitive Systems (2024–Present)**
+
+**Overview:** Designed and deployed production-grade ML infrastructure for the MLAOS Neuro-Cognitive System, implementing Google's Rules of Machine Learning to solve critical reproducibility gaps in brain-computer interface research.
+
+**Key Achievements:**
+- **Feature Registry System (Rule #11):** Centralized PostgreSQL registry with ownership tracking for all neuro-cognitive features (impedance spectra, resonance scores, physiological signals). Eliminated orphaned metadata when team members transition.
+- **Serving-Time Logging (Rule #29):** Asynchronous logger captures exact feature values at inference time, enabling training data reconstruction from production logs.
+- **Automated Skew Audits (Rules #37, #10):** Weekly automated distribution monitoring with real-time alerting. Silent failure detection improved from 30 days to 1 hour.
+
+**Impact Metrics:**
+| Metric | Baseline | Current | Improvement |
+|--------|----------|---------|-------------|
+| Feature Documentation | 0% | 100% | +100% |
+| Training-Serving Skew | 0.45 KS | 0.05 KS | 88% reduction |
+| Feature Onboarding | 3 days | 4 hours | 14x faster |
+| Failure Detection | 30 days | 1 hour | 720x faster |
+| Technical Debt | High | Low | 70% reduction |
+
+**Products:**
+- GitHub Repository: https://github.com/Herounhero (3 public repositories)
+- Open-source infrastructure under MIT license
+- Documentation and tutorials for neuro-AI community
+
+**Relevance to NIH:** Addresses BRAIN Initiative Priority: *Promote Reproducibility* through standardized feature documentation, skew detection, and open-source dissemination.
+
+---
+
+### **Contribution 2: Multi-Modal Neuro-Cognitive Data Integration (2024–Present)**
+
+**Overview:** Integrated three data modalities (EIS, physiological signals, narrative interaction) into unified ML pipeline for computational mythology and neuroprosthetics research.
+
+**Key Achievements:**
+- **EIS Data Pipeline:** Electrode Impedance Spectroscopy (magnitude/phase at 1kHz) from 2PP + Au/PEDOT:PSS fabrication. 10,000 electrodes/month processed with Kramers-Kronig validation.
+- **Physiological Signal Integration:** HRV and EEG during MLAOS cognitive sessions. 500 sessions/month with <10% data loss.
+- **Narrative Interaction Tracking:** Symbolic resonance scores, branch completion rates linked to physiological/EIS outcomes.
+
+**Innovation:** First system to bridge computational mythology, emotional physics, and neuroprosthetics—enabling research questions impossible with single-modality systems.
+
+**Relevance to NIH:** Addresses BRAIN Initiative Priority: *Understand Brain-Behavior Relationships* through multi-modal correlation analysis.
+
+---
+
+### **Contribution 3: Training-Serving Skew Mitigation for BCI Research (2025–Present)**
+
+**Overview:** Developed methodology for detecting and eliminating training-serving skew in brain-computer interface ML pipelines, adapting Google production practices to academic research context.
+
+**Key Achievements:**
+- **Shared Feature Extractor (Rule #32):** Single codebase for training and serving eliminates preprocessing drift. Unit test coverage >90%.
+- **Temporal Validation Framework (Rule #33):** Train on Week N, test on Week N+1. Performance degradation <5% between train/test weeks.
+- **Distribution Monitoring:** KS test with p<0.05 threshold for skew detection. Automated alerts integrated with email/Slack.
+
+**Impact:** 88% skew reduction (KS stat: 0.45→0.05) ensures model reliability in production—critical for FDA regulatory submissions.
+
+**Relevance to NIH:** Addresses BRAIN Initiative Priority: *Enable Translational Research* through FDA pathway preparation and clinical deployment readiness.
+
+---
+
+### **Contribution 4: Open-Source Infrastructure for Neuro-AI Community (2025–Present)**
+
+**Overview:** Committed to open-source dissemination of all MLAOS infrastructure code, enabling community adoption and reproducibility.
+
+**Key Achievements:**
+- **GitHub Repository:** https://github.com/Herounhero (3 public repositories, expanding to 5+ post-award)
+- **Documentation:** README with quick-start guide, API documentation, tutorials
+- **License:** MIT license for maximum community adoption
+- **Contribution Guidelines:** Clear PR templates, testing requirements, code review standards
+
+**Expected Impact:** 10+ labs adopt within 5 years, 50+ citations within 2 years of publication.
+
+**Relevance to NIH:** Addresses BRAIN Initiative Priority: *Develop Innovative Neurotechnologies* through community-wide infrastructure adoption.
+
+---
+
+### **Contribution 5: Career Trajectory and Long-Term Research Vision (Rule #39)**
+
+**Overview:** Infrastructure investment proxies for 5-year research trajectory, aligning with NIH career development goals.
+
+**5-Year Career Proxy:**
+| Infrastructure Component | 5-Year Research Proxy |
+|-------------------------|----------------------|
+| Feature Registry | Reproducible multi-lab collaborations |
+| Serving Logger | Clinical deployment readiness |
+| Skew Audits | FDA regulatory pathway compliance |
+| Open-Source Release | Community adoption & citation impact |
+
+**End State Vision:** By Year 5, MLAOS infrastructure adopted by 10+ BCI research labs, enabling reproducible neuro-cognitive ML research at scale. Career pathways include:
+- **Neurotech Founder:** Infrastructure moat for BCI startup
+- **AI Research Lead:** Production ML credibility at major institution
+- **Independent Researcher:** Funding-ready systems for NIH/NSF grants
+
+**Relevance to NIH:** Demonstrates long-term commitment to neuro-cognitive research infrastructure with clear pathways to translation and community impact.
+
+---
+
+## **D. ADDITIONAL INFORMATION**
+
+### **Research Resources**
+
+| Resource | Description |
+|----------|-------------|
+| **GitHub** | https://github.com/Herounhero (3 public repositories) |
+| **Email** | kennydallmier@gmail.com |
+| **Project** | MLAOS Engine (Computational Mythology + Neuroprosthetics) |
+| **Infrastructure** | PostgreSQL, Python 3.9+, AWS/GCP cloud computing |
+| **Hardware** | EIS equipment, wearable sensors (HRV/EEG), MLAOS cognitive engine |
+
+### **Collaborations**
+
+| Collaborator | Institution | Role |
+|--------------|-------------|------|
+| [Name] | [Institution] | [Role in MLAOS project] |
+| [Name] | [Institution] | [Role in MLAOS project] |
+
+### **Publications**
+
+*(Note: Add your actual publications below. If none yet, indicate "In Preparation" for planned manuscripts.)*
+
+1. **Dallmier, K.** (2026). *MLAOS Production ML Infrastructure for Neuro-Cognitive Systems*. GitHub. https://github.com/Herounhero
+
+2. **Dallmier, K.** (In Preparation). *Production ML for BCI Research: Implementing Google's Rules of Machine Learning in Academic Context*. Manuscript in preparation for Nature Methods/Neuron.
+
+3. **Dallmier, K.** (In Preparation). *Multi-Modal Neuro-Cognitive Data Integration: EIS, Physiological Signals, and Narrative Interaction*. Manuscript in preparation.
+
+### **Conference Presentations**
+
+*(Note: Add your actual presentations below.)*
+
+1. **Dallmier, K.** (2026). *MLAOS Infrastructure: Production ML for Neuro-Cognitive Research*. [Conference Name, Location].
+
+### **Professional Memberships**
+
+- [Society/Organization Name]
+- [Society/Organization Name]
+
+### **Patents**
+
+*(Note: Add if applicable, otherwise remove section.)*
+
+---
+
+## **E. REFERENCES & SUPPORT**
+
+### **Current Research Support**
+
+| Project Title | Source | Role | Dates | Total Award |
+|--------------|--------|------|-------|-------------|
+| MLAOS Infrastructure Development | Self-Funded | PI | 2024–Present | $[Amount] |
+| NIH BRAIN Initiative Grant Application | NIH (Pending) | PI | 2026–2028 | $[Amount Requested] |
+
+### **Completed Research Support**
+
+*(Note: Add if applicable, otherwise remove section.)*
+
+---
+
+## **F. ALIGNMENT WITH NIH BRAIN INITIATIVE PRIORITIES**
+
+| BRAIN Initiative Goal | MLAOS Alignment |
+|----------------------|-----------------|
+| **Develop Innovative Neurotechnologies** | Production ML infrastructure for BCI research |
+| **Map Neural Circuits** | EIS impedance mapping + neuro-cognitive modeling |
+| **Understand Brain-Behavior Relationships** | Physiological signals + narrative interaction |
+| **Enable Translational Research** | FDA pathway preparation, clinical deployment readiness |
+| **Promote Reproducibility** | Feature registry, skew detection, documentation standards |
+
+---
+
+## **G. GOOGLE RULES OF ML COMPLIANCE**
+
+This biosketch demonstrates implementation of the following Google Rules of Machine Learning:
+
+| Rule # | Rule Name | Implementation in MLAOS |
+|--------|-----------|------------------------|
+| #4 | Keep first model simple | Infrastructure-first approach |
+| #5 | Test infrastructure independently | Unit tests for all components |
+| #8 | Know freshness requirements | Monitoring dashboard with alerts |
+| #10 | Watch for silent failures | 15-minute health checks |
+| #11 | Give feature columns owners | Feature Registry with ownership |
+| #16 | Plan to launch and iterate | Automated feature onboarding |
+| #22 | Clean up unused features | Weekly pruning automation |
+| #29 | Log features at serving time | ServingLogger captures exact values |
+| #32 | Re-use code train/serve | Shared FeatureExtractor module |
+| #33 | Test on future data | Temporal validation framework |
+| #37 | Measure training/serving skew | Weekly automated audits |
+| #39 | Launch decisions as proxy | Career milestone documentation |
+
+---
+
+## **H. CONTACT INFORMATION**
+
+**Kenneth Dallmier, M.S.**  
+Sole Engineer & Owner, MLAOS Engine Project  
+📧 kennydallmier@gmail.com  
+🔗 https://github.com/Herounhero  
+🧠 Computational Mythology + Neuroprosthetics + ML Infrastructure  
+📍 [Your Location/Institution]
+
+---
+
+## ✅ NIH Biosketch Checklist
+
+| Requirement | Status |
+|-------------|--------|
+| Personal Statement (career goals, research focus) | ✅ |
+| Positions and Honors (current, education) | ✅ |
+| Contributions to Science (up to 5, with metrics) | ✅ |
+| Additional Information (resources, collaborations) | ✅ |
+| References & Support (current funding) | ✅ |
+| NIH BRAIN Initiative alignment clear | ✅ |
+| GitHub repository linked | ✅ |
+| Contact information included | ✅ |
+| Page limit (4 pages max for standard biosketch) | ⬜ Adjust formatting as needed |
+| SCIenCv format compatible | ⬜ Convert to SCIenCv if required |
+
+---
+
+## 🎯 Next Steps
+
+Would you like me to:
+
+1. **Convert this to SCIenCv format** (NIH's online biosketch system)?
+2. **Draft letters of collaboration** for potential partners (neuroscience labs, ML engineering teams)?
+3. **Prepare the GitHub repositories** for public release (README, license, documentation)?
+4. **Create a budget spreadsheet** with line-item justification for the BRAIN Initiative grant?
+
+Let me know which component to develop next for your NIH submission! 🚀
