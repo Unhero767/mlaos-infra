@@ -5,7 +5,7 @@ Author: Kenneth Dallmier | kennydallmier@gmail.com
 
 import logging
 import psycopg2
-from datetime import datetime
+from datetime import datetime, timezone
 
 logger = logging.getLogger(__name__)
 
@@ -52,7 +52,7 @@ class ServingLogger:
                 memory_id,
                 self.model_version,
                 str(features),
-                datetime.utcnow()
+                datetime.now(timezone.utc)
             ))
             
             log_id = cursor.fetchone()[0]

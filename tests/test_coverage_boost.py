@@ -5,8 +5,9 @@ from src.mlaos_infra.serving_logger import ServingLogger
 from src.mlaos_infra.skew_auditor import SkewAuditor
 from src.mlaos_features.feature_extractor import FeatureExtractor
 
+
 class TestCoverageBoost(unittest.TestCase):
-    
+
     @patch('src.mlaos_infra.serving_logger.psycopg2.connect')
     def test_logger_success(self, mock_connect):
         """Rule #5: Test DB logic without needing a live DB."""
@@ -14,11 +15,11 @@ class TestCoverageBoost(unittest.TestCase):
         mock_cursor = MagicMock()
         mock_connect.return_value = mock_conn
         mock_conn.cursor.return_value = mock_cursor
-        mock_cursor.__enter__.return_value = mock_cursor # Handles context managers
-        
+        mock_cursor.__enter__.return_value = mock_cursor
+
         logger = ServingLogger("fake_db", "AURELIA-v2.3")
         res = logger.log_inference("req1", "mem1", {"f1": 1.0})
-        
+
         # Validates regardless of whether it returns True/False or an ID
         self.assertTrue(res or res is not None)
 

@@ -15,7 +15,7 @@ class TestInfrastructureIntegration(unittest.TestCase):
     def test_feature_extractor_importable(self):
         """Rule #5: Verify FeatureExtractor is importable."""
         try:
-            from mlaos_features.feature_extractor import FeatureExtractor
+            from mlaos_features.feature_extractor import FeatureExtractor  # noqa: F401
             self.assertTrue(True)
         except ImportError as e:
             self.fail(f"FeatureExtractor not importable: {e}")
@@ -23,7 +23,7 @@ class TestInfrastructureIntegration(unittest.TestCase):
     def test_serving_logger_importable(self):
         """Rule #5: Verify ServingLogger is importable."""
         try:
-            from mlaos_infra.serving_logger import ServingLogger
+            from mlaos_infra.serving_logger import ServingLogger  # noqa: F401
             self.assertTrue(True)
         except ImportError as e:
             self.fail(f"ServingLogger not importable: {e}")
@@ -31,7 +31,7 @@ class TestInfrastructureIntegration(unittest.TestCase):
     def test_skew_auditor_importable(self):
         """Rule #5: Verify SkewAuditor is importable."""
         try:
-            from mlaos_infra.skew_auditor import SkewAuditor
+            from mlaos_infra.skew_auditor import SkewAuditor  # noqa: F401
             self.assertTrue(True)
         except ImportError as e:
             self.fail(f"SkewAuditor not importable: {e}")
