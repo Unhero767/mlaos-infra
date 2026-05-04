@@ -10,14 +10,18 @@ jobs:
     name: "Ascending the Winding Stairs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: "Grammar: Syntax Integrity"
-        run: echo "Plumb line checked. Syntax is valid."
+      - name: "Grammar: Checkout"
+        uses: actions/checkout@v4
+      
       - name: "Logic: Dialectical Inquiry"
-        run: python scripts/logic_gate.py --strict-dogma
-      - name: "Rhetoric: Luminous Documentation"
+        run: |
+          if [ -f scripts/logic_gate.py ]; then
+            python scripts/logic_gate.py --strict-dogma
+          else
+            echo "ERROR: Logic Gate not found at scripts/logic_gate.py"
+            exit 1
+          fi
+
+      - name: "Rhetoric: Final Certification"
         if: success()
-        run: echo "ARCHIVIST LOG: The change is resonant with the CORE_DOGMA."
-      - name: "The Pine Cone: Hardwiring"
-        if: success()
-        run: echo "Level 4 Certification Awarded."
+        run: echo "Level 4: Pine Cone Awarded."
