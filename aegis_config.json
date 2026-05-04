@@ -1,0 +1,11 @@
+{
+  "critical": [
+    "mtp_core.py",
+    "giza_module.py",
+    "subterranean_chamber.py"
+  ],
+  "optional": [
+    "src/core/ml_cli.py",
+    "forensics.py"
+  ]
+}

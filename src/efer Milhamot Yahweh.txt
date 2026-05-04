@@ -1,0 +1,193 @@
+The Sefer Milhamot Yahweh: Philological, Archaeological, and Theological Investigations into the Lost Book of the Wars of the Lord
+The citation of the "Book of the Wars of the Lord" in the twenty-first chapter of the Book of Numbers represents one of the most significant literary and historical enigmas within the Pentateuchal corpus. This document, known in Hebrew as Sefer Milhamot Yahweh, is explicitly named only once in the Masoretic Text, serving as a poetic witness to the geographical boundaries and military triumphs of Israel during its transit through the Transjordanian wilderness.1 To the modern biblical scholar and archaeologist, this "ghost text" functions as more than a mere curiosity; it provides an essential window into the pre-canonical literary landscape of the Levant, suggesting that the final redaction of the Torah drew upon a rich, pre-existing tradition of national epic poetry and historical chronicles that have since vanished from the material record.3
+The Philological Crux: Analyzing the Textual Remains of Numbers 21:14-15
+The primary challenge in reconstructing the nature of the Book of the Wars of the Lord begins with the linguistic opacity of the quotation preserved in Numbers 21:14. The Hebrew text reads: ’et-wāhēb bə-sûpâ wə-’et-hannəḥālîm ’arnôn. Traditionally, this has been rendered in versions like the King James Bible as "What he did in the Red sea, and in the brooks of Arnon," an interpretation that relies on identifying wāhēb as a verbal form and sûpâ as a reference to the Yam Suph or Red Sea.6 However, modern philology has largely rejected this reading, identifying Waheb and Suphah as specific, albeit currently unidentified, geographical locations within the Moabite or Amorite territories.6
+The Imperative Reinterpretation of Steiner
+A significant advancement in the philological study of this passage has been proposed by Richard Steiner, who addresses the "gibberish" produced by traditional translations that view ’et as a direct object marker without a governing verb.8 Steiner argues that the initial word ’et is actually an archaic, apocopated biliteral imperative of the root ’-t-y, meaning "come!".8 This re-parsing transforms the entire fragment from a broken list of nouns into a coherent poetic exhortation. In this view, the Book of the Wars of the Lord contained invitations to the reader to visit and be inspired by the sites of Yahweh’s miracles.8 This structural parallel is reinforced by the "Song of Heshbon" later in the same chapter, which similarly begins with the imperative bō’û ḥešbôn ("Come to Heshbon"), suggesting a specific genre of early Hebrew military-geographic poetry.8
+
+Source
+Grammatical Interpretation of 'et
+Resulting Translation Strategy
+Masoretic Tradition
+Accusative Marker (Direct Object)
+Fragmentary; requires an implied verb like "conquered." 6
+Early Vulgate/Septuagint
+Part of a larger narrative phrase
+Integrated into the surrounding prose description. 3
+Richard Steiner (2020)
+Archaic Imperative ('atā)
+"Come to (Mt.) Waheb during a storm!" 8
+Arnold Ehrlich
+Rare Poetic Accusative
+Maintains it as an object marker but notes its rarity in poetry. 8
+Traditional Commentaries
+Preposition "at" or "with"
+"At Waheb in Suphah..." 6
+
+The implications of Steiner’s analysis extend to the dating and origin of the source. The use of the apocopated imperative ’et suggests a linguistic stratum that is extremely ancient, possibly predating the standard monarchic Hebrew of the 8th and 7th centuries BCE.8 This aligns with theories that the Book of the Wars of the Lord was a contemporary or near-contemporary record of the wilderness period, perhaps even authored in part by Moses or his immediate successors, as suggested by Ibn Ezra and Nachmanides.2
+The Hydrology and Topography of the Arnon
+The fragment continues by mentioning "the outpour of the wadis" (’ešed hannəḥālîm) which "leans toward the seat of Ar" and "hugs the border of Moab".8 The term ’ešed (slope or outpour) is a rare technical term in biblical Hebrew, referring to the confluence or the steep descent of mountain streams into a larger valley.8 This geographical precision is not merely decorative but serves a legalistic and historical purpose within the narrative of Numbers 21.3 The Arnon (modern Wadi Mujib) was the recognized boundary between the Moabites and the Amorites.1
+The citation of the Book of the Wars of the Lord is strategically placed to confirm that Israel’s presence in the Transjordan did not violate the divine command to respect Moabite territory, as the land they occupied had already been taken from Moab by the Amorite King Sihon.1 The "Book" thus acted as a historical and theological ledger, documenting the precise points where the landscape shifted from one sovereignty to another under the aegis of divine warfare.13
+The Anthology Theory: Composition and Structure of the Lost Volume
+Scholars have long debated whether the Book of the Wars of the Lord was a unified narrative or, more likely, an anthology of diverse poetic and archival materials.2 The consensus view among modern critics, such as those contributing to the Encyclopaedia Judaica, is that the work was a collection of odes, victory songs, and possibly ritual curses commemorative of the triumphant progress of the Israelites.3
+Potential Contents of the Collection
+It is highly probable that several other poetic fragments found in Numbers 21—and perhaps elsewhere in the Pentateuch—originally resided within this collection.3 The "Song of the Well" (Numbers 21:17-18), with its celebration of the "chieftains" and "nobles" who dug for water with their "scepters," reflects the same desert-dwelling military-aristocratic milieu as the Arnon citation.3 Likewise, the extended "Ode on the Conquest of Heshbon" (Numbers 21:27-30), which taunts the Amorites for their defeat, displays the stylistic hallmarks of early Hebrew epic poetry—formulaic language, parallelisms, and a focus on the Divine Warrior’s decisive action.3
+
+Literary Genre in the Anthology
+Biblical Parallel
+Function in the Ancient Community
+Victory Hymn
+Exodus 15 (Song of the Sea)
+Liturgical celebration of Yahweh’s power. 1
+Taunt Song (Mashal)
+Numbers 21:27-30
+Psychological warfare; mocking defeated enemies. 3
+Geographical Itinerary
+Numbers 33
+Defining the national territory and sacred sites. 13
+Boundary Oracle
+Numbers 21:14-15
+Legal testimony of territorial rights. 13
+Blessing/Curse
+Numbers 23-24 (Balaam)
+Invoking divine favor or judgment on nations. 5
+
+The anthology theory suggests that the Book of the Wars of the Lord was an "open" text, likely expanded over several generations.3 While its core may have been Mosaic, later editors in the time of the Judges or the early Monarchy likely added odes celebrating more recent triumphs, such as those against the Midianites or the Philistines.2 This process of accumulation mirrors the development of the Psalter, where various groups of poems were gathered into a single national hymnbook.21
+The Relationship to the Book of Jashar
+The Book of the Wars of the Lord is often discussed in tandem with the Book of Jashar (Sefer ha-Yashar), mentioned in Joshua 10 and 2 Samuel 1.23 While Joseph Barber Lightfoot proposed that these were two titles for the same volume, the majority of scholars maintain their distinct identities based on their differing thematic focuses.2 The Book of Jashar, translated as the "Book of the Upright One," appears to have been a heroic epic centered on the virtues and exploits of great leaders like Joshua and David.23 In contrast, the Book of the Wars of the Lord was more explicitly theological, centering on the military agency of Yahweh himself as the "Man of War".1
+
+Comparison Feature
+Book of the Wars of the Lord
+Book of Jashar
+Primary Reference
+Numbers 21:14
+Joshua 10:13; 2 Samuel 1:18
+Subject Matter
+Divine warfare, boundaries, wilderness journeys. 1
+Heroic deeds, laments (Song of the Bow), national heroes. 24
+Spirit of the Text
+Theocentric (Yahweh as combatant). 14
+Anthropocentric/Heroic (The Upright Man). 24
+Context of Quotation
+Proving the Arnon boundary. 3
+Validating the sun standing still and David's grief. 23
+
+Ancient Near Eastern Context: Annals, Epics, and Monuments
+To understand the genre of the Book of the Wars of the Lord, it is necessary to locate it within the broader literary environment of the Ancient Near East (ANE). The keeping of military annals and victory songs was a universal practice among the empires surrounding ancient Israel.1
+Parallels in Egyptian and Assyrian Records
+The Egyptian "Annals of Thutmose III" (15th century BCE) inscribed on the walls of the Temple of Amun at Karnak provide a detailed prose and poetic account of military campaigns into the Levant.27 These annals blend geographical notations with the exaltation of the god Amun-Re as the grantor of victory, mirroring the theological structure of the "Wars of Yahweh".19 Similarly, the "Tukulti-Ninurta Epic" from the Middle Assyrian period (c. 13th century BCE) glorifies the king’s victory over Babylon, framing it as a result of the Babylonian king's impiety and the Assyrian god Ashur's judgment.29
+The "Epic of Kirta" and the "Baal Cycle" from Ugarit also exhibit striking parallels in their descriptions of mobilized armies and divine intervention in battle.31 In the Baal Cycle, the god Baal’s victory over Yam (the Sea) is followed by his enthronement, a pattern reflected in the "Song of the Sea" in Exodus 15 and possibly within the themes of the Book of the Wars of the Lord.19 However, while ANE epics were often polytheistic and mythic, the Israelite Book was uniquely monotheistic and historical, focusing on the actions of Yahweh in the lived time of the covenant community.1
+The Mesha Stele and the Arnon Frontier
+The most direct archaeological parallel to the military context of Numbers 21 is the Mesha Stele (Moabite Stone), discovered in 1868.28 This 9th-century BCE inscription by King Mesha of Moab records his rebellion against the house of Omri (Israel) and his reconquest of territories north of the Arnon.28 The stele mentions many of the same locations found in the Numbers itinerary, such as Nebo, Ataroth, and the Arnon river itself, and attributes Moab's victories to their god Chemosh.28
+The existence of the Mesha Stele confirms that the Arnon was a hotly contested frontier for centuries and that nations in this region preserved their military history in written form.1 The Book of the Wars of the Lord likely served as the Israelite equivalent to such monuments—a portable, poetic "stele" that carried the memory of Yahweh’s triumphs as the nation moved from the wilderness into the settled land.1
+The Theology of the Divine Warrior and the "Day of Yahweh"
+The Book of the Wars of the Lord is a foundational text for the theology of "Holy War" or "Yahweh War," a concept championed by Gerhard von Rad.34 In this view, war was a sacral act, a ritual of the religious community where the Divine Warrior was the primary participant.35
+Characteristics of the Divine Warrior Motif
+The title Ish Milhamah ("Man of War") applied to Yahweh in Exodus 15:3 is the conceptual heart of the lost book.14 The theology preserved in the fragment of Numbers 21:14 emphasizes that the landscapes of the Transjordan were not just neutral spaces but battlefields where the Lord’s sovereignty was manifested.14 This theology is characterized by:
+Monergism: The belief that Yahweh fights alone or through supernatural confusion (mêhûmâ) cast upon the enemy, requiring only faith and sanctification from the Israelite troops.36
+Epiphany in the Storm: The fragment mentions Suphah (storm or whirlwind), suggesting that Yahweh’s military presence was often associated with meteorological phenomena—thunder, lightning, and whirlwinds—typical of the storm-god imagery found in Ugaritic literature but repurposed for Yahweh.8
+The Territorial Covenant: The wars are "of the Lord" because they facilitate the fulfillment of the land promise made to the patriarchs.1
+The Evolution of the "Day of Yahweh"
+Gerhard von Rad famously suggested that the prophetic concept of the "Day of Yahweh" evolved from these early Holy War traditions.34 Initially, the "Day" was a specific occasion of a historical battle where Yahweh intervened decisively.37 The Book of the Wars of the Lord would have been the repository for the accounts of these "Days".15 Over time, as Israel faced national crises and exile, this historical memory was transformed into an eschatological hope: the expectation of a final, cosmic "Day of Yahweh" where the Divine Warrior would once and for all defeat the forces of evil and establish his kingdom.15
+Medieval Interpretations and Philosophical Legacy
+The title of the lost book has had a vibrant afterlife in Jewish philosophy and mysticism, serving as a symbolic label for intellectual and spiritual struggles.2
+Gersonides and the Philosophy of the Wars
+The most famous appropriation of the title is by the 14th-century Provençal scholar Levi ben Gershom (Gersonides), who titled his magnum opus Sefer Milhamot HaShem ("The Wars of the Lord").40 Written over twelve years (1317–1329), this work is a rigorous defense of Aristotelianism within a Jewish framework.41 Gersonides did not deal with military history but with the "wars" over truth—specifically addressing the immortality of the soul, divine providence, and the creation of the universe.40
+Gersonides chose this title to signify that the defense of reason and the pursuit of scientific truth were themselves a form of divine service, comparable to the ancient battles of Israel.41 His work was so unorthodox that it was sharply criticized by later authorities like Abarbanel and Crescas, who viewed his rationalization of biblical miracles as a form of heresy.42
+Traditional Jewish Exegesis: Rashi and Ramban
+When commenting on the original reference in Numbers 21:14, the medieval exegetes offered various theories about the book’s origin and disappearance.13
+Rashi: Argued that sefer here means an "account" or a "telling" rather than a physical book. He interpreted the verse as saying that in the future, when people recount the wonders of the Arnon, they will say what happened at Waheb and Suphah.13
+Ibn Ezra: Believed it was a literal book that had been lost, potentially written in the time of Abraham or Moses.2 He noted that many biblical-era works, such as the Acts of Nathan or Gad the Seer, had perished.1
+Nachmanides (Ramban): Suggested that the book was a record of military campaigns written by "God-fearing men" or poets (moshlim).13 He emphasized that the Torah quotes this book to provide an objective historical witness to Israel’s geographical boundaries.13
+The Zohar: In the mystical tradition, the "Book of the Wars of the Lord" is interpreted as a celestial record of the spiritual forces that drive historical conflicts, suggesting that the "wars" are won in heaven before they are manifested on earth.14
+The Enigma of Loss: Why Was the Book Not Preserved?
+The disappearance of the Book of the Wars of the Lord is a focal point in discussions regarding the formation of the biblical canon and the preservation of ancient texts.1
+The Distinction Between History and Inspiration
+The primary reason identified by scholars for the book's loss is that it was not considered "divinely inspired" in the same way as the Torah or the Prophets.1 While it was an accurate and valuable national chronicle, it served a limited, contemporary function: proving territorial rights and celebrating specific victories.1 Once its essential theological messages and poetic highlights were integrated into the finalized books of Numbers and Joshua, the need to maintain the original scroll diminished.1
+Scripture itself promises the preservation of "God-breathed" writings intended for the perpetual instruction of the community, but no such promise is extended to national archives or royal annals.1 The loss of the Book of the Wars of the Lord, along with the Book of Jashar and the Annals of the Kings of Israel and Judah, likely occurred during the upheavals of the Assyrian and Babylonian exiles, where many communal documents were destroyed.1
+Canonical Criteria in Israel and the Early Church
+The communities that finalized the Hebrew canon recognized books based on prophetic authority and covenantal utility.1 As noted in the New Testament by Paul and Jude, biblical authors could quote from non-canonical or even secular sources without granting those sources the status of Scripture.1 The "Wars of the Lord" functioned as an "external backup"—a source of verification that the author of Numbers could point to, saying, in effect, "If you doubt this account, consult the national records".1
+
+Lost Book Mentioned in Scripture
+Primary Reference
+Nature of the Work
+Book of the Wars of the Lord
+Numbers 21:14
+Military and geographical chronicle. 1
+Book of Jashar
+Joshua 10:13
+Heroic poetry and laments. 23
+Book of the Acts of Solomon
+1 Kings 11:41
+Royal biography and history. 1
+Annals of Samuel, Nathan, and Gad
+1 Chronicles 29:29
+Prophetic and historical narratives. 1
+Visions of Iddo the Seer
+2 Chronicles 9:29
+Prophetic oracles and genealogies. 46
+
+Modern Theories and the Search for the Lost Text
+In the contemporary era, the Book of the Wars of the Lord has been the subject of several provocative, though largely unsubstantiated, claims of rediscovery.48
+The Dead Sea Scrolls Connection
+Some researchers have attempted to link the Book of the Wars of the Lord to the "War Scroll" (1QM) found at Qumran.48 The War Scroll details an apocalyptic battle between the "Sons of Light" and the "Sons of Darkness" at the end of time.48 However, mainstream biblical scholarship rejects this identity, noting that the War Scroll is an Essene theological composition from the late Second Temple period, whereas the Book of the Wars of the Lord is cited as an ancient source already in the time of the Torah's redaction.45
+Pseudepigrapha and Literary Forgeries
+Since the 18th century, several books claiming to be the "Lost Book of Jashar" or the "Lost Book of Wars" have appeared.24 One such volume, published in 1751, claimed to be a translation by an 8th-century scholar named Alcuin; another, often called "Pseudo-Jasher," is a collection of Jewish legends from c. 1625.24 None of these works are authentic ancient texts.24 They are instead reflections of the persistent human desire to "fill in the gaps" of the biblical record and recover the "lost wisdom" mentioned in the sacred text.26
+Synthesizing the Evidence: The Historical Value of the "Absent"
+The Book of the Wars of the Lord occupies a unique space in biblical studies as a text that is more significant in its absence than many extant works.1 Its solitary mention in Numbers 21:14 serves as a crucial point of data for multiple scholarly disciplines.
+Philological and Historical Synthesis
+For the philologist, the Arnon fragment is a linguistic time capsule, preserving archaic forms like the biliteral imperative and rare terms like ’ešed that provide evidence of the Hebrew language's developmental stages.8 For the historian, it validates the antiquity of the Arnon boundary and the reality of the military conflicts between the nascent Israelite tribes and the established kingdoms of the Transjordan.1
+Theological and Redactional Synthesis
+For the theologian, the book represents the earliest stage of the Divine Warrior tradition, showing how Israel's identity was built upon the belief that their God was an active participant in their history.14 Its inclusion in Numbers through a citation rather than a full transcription demonstrates a sophisticated redactional process where the Torah authors prioritized theological and legal continuity over the preservation of raw historical data.1
+The Book of the Wars of the Lord remains one of the most intriguing "ghost texts" of antiquity.4 While the physical scroll may never be recovered, its legacy survives through the poetic fragments it left behind—lines that continue to challenge translators, inspire philosophers, and anchor the historical narrative of the Bible in the rugged landscape of the ancient Levant.1
+Works cited
+Why is the "Book of the Wars of the LORD" not included in the Bible?, accessed March 16, 2026, https://biblehub.com/q/Why_isn_t_Book_of_Wars_in_the_Bible.htm
+Book of the Wars of the Lord - Wikipedia, accessed March 16, 2026, https://en.wikipedia.org/wiki/Book_of_the_Wars_of_the_Lord
+Book of the Wars of the Lord - Jewish Virtual Library, accessed March 16, 2026, https://www.jewishvirtuallibrary.org/book-of-the-wars-of-the-lord
+Topical Bible: Books: Not Extant, But Mentioned in Scripture: Wars of the Lord, accessed March 16, 2026, https://biblehub.com/topical/ttt/b/books--not_extant,_but_mentioned_in_scripture--wars_of_the_lord.htm
+Book of the Wars of Yahweh | Israelite, Poem, Song | Britannica, accessed March 16, 2026, https://www.britannica.com/topic/Book-of-the-Wars-of-Yahweh
+Numbers 21:14 Commentaries: Therefore it is said in the Book of the Wars of the LORD, "Waheb in Suphah, And the wadis of the Arnon, - Bible Hub, accessed March 16, 2026, https://biblehub.com/commentaries/numbers/21-14.htm
+Numbers 21:14 Lexicon: Therefore it is said in the Book of the Wars of the LORD, "Waheb in Suphah, And the wadis of the Arnon, - Bible Hub, accessed March 16, 2026, https://biblehub.com/lexicon/numbers/21-14.htm
+View of The Book of the Wars of the Lord (Num. 21:14–20) - Lockwood Online Journals, accessed March 16, 2026, https://lockwoodonlinejournals.com/index.php/jaos/article/view/677/530
+Numbers 21:14 Study Bible: Therefore it is said in the Book of the Wars of the LORD, "Waheb in Suphah, the valleys of the Arnon,, accessed March 16, 2026, https://biblehub.com/study/numbers/21-14.htm
+The Book of the Wars of the Lord (Num. 21:14–20): Philology and Hydrology, Geography and Ethnography. - YAIR, accessed March 16, 2026, https://repository.yu.edu/items/b10ea1a3-b8a5-4887-aaae-fd5d3c319013
+The Book of the Wars of the Lord (Num. 21:14–20): Philology and Hydrology, Geography and Ethnography - YAIR, accessed March 16, 2026, https://repository.yu.edu/server/api/core/bitstreams/41e6bbca-6eb1-442d-86d0-5d4caf8b267f/content
+Book of the Wars of the Lord | Encyclopedia.com, accessed March 16, 2026, https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/book-wars-lord
+What Is the “Book of the Wars of G-d”? - Guest Columnists - Parshah - Chabad Lubavitch, accessed March 16, 2026, https://www.chabad.org/parshah/article_cdo/aid/6940810/jewish/What-Is-the-Book-of-the-Wars-of-G-d.htm
+The Book of the Wars of the Lord Is Still Being Written – The Israel ..., accessed March 16, 2026, https://theisraelbible.com/the-book-of-the-wars-of-the-lord-is-still-being-written/
+Christensen, Duane L. - Num 21.14-15 and The Book of The Wars of Yahweh (CQ) - Scribd, accessed March 16, 2026, https://www.scribd.com/document/125408964/Christensen-Duane-L-Num-21-14-15-and-the-Book-of-the-Wars-of-Yahweh-CQ
+Translation commentary on Numbers 21:14 – 21:15 – TIPs, accessed March 16, 2026, https://tips.translation.bible/story/translation-commentary-on-numbers-2114-2115/
+What is the Book of the Wars of the Lord? - GotQuestions.org, accessed March 16, 2026, https://www.gotquestions.org/book-of-the-Wars-of-the-Lord.html
+Numbers 21:14 | Sefaria Library, accessed March 16, 2026, https://www.sefaria.org/Numbers.21.14
+What is the "Book of the Wars of the LORD" mentioned in Numbers 21:14? - Bible Hub, accessed March 16, 2026, https://biblehub.com/q/What_is_the_Book_of_Wars_of_the_LORD.htm
+Old Testament Parallels: Laws and Stories from the Ancient Near East - PDFDrive.com - Início - YAUSHA.COM.BR, accessed March 16, 2026, https://yausha.com.br/wp-content/uploads/2025/01/Old-Testament-Parallels_-Laws-and-Stories-from-the-Ancient-Near-East-PDFDrive-.pdf
+Intro to the Psalms: Critical Methods of Interpretation - Hans Moscicke, accessed March 16, 2026, https://hansmoscicke.wordpress.com/2017/11/15/intro-the-psalms-critical-methods-of-interpretation/
+Parallels to the Psalms in Near Eastern Literature -- By: Charles Lee Feinberg, accessed March 16, 2026, https://www.galaxie.com/article/bsac104-415-04
+Lost Books Referenced from the Old Testament, accessed March 16, 2026, https://www.julianspriggs.co.uk/pages/LostBooks
+What is the Book of Jasher and should it be in the Bible? - GotQuestions.org, accessed March 16, 2026, https://www.gotquestions.org/book-of-Jasher.html
+SGYA: What happened to the "Book of Jashar"? - Dwelling Richly Ministries, accessed March 16, 2026, https://www.jennifergrichmond.com/sgya-ep2-the-book-of-jashar/
+The Book of Jasher and the Latter-day Saints | Religious Studies Center - BYU, accessed March 16, 2026, https://rsc.byu.edu/apocryphal-writings-latter-day-saints/book-jasher-latter-day-saints
+Ancient Near Eastern Texts Relating to the Old Testament - Wikipedia, accessed March 16, 2026, https://en.wikipedia.org/wiki/Ancient_Near_Eastern_Texts_Relating_to_the_Old_Testament
+37 Figures from the Bible Validated by Archaeologists and Historians - History Collection, accessed March 16, 2026, https://historycollection.com/37-figures-from-the-bible-validated-by-archaeologists-and-historians/
+Tukulti-Ninurta Epic - Wikipedia, accessed March 16, 2026, https://en.wikipedia.org/wiki/Tukulti-Ninurta_Epic
+The Great Inscription of Tukulti-Ninurta I, King of Assyria, from the Collection of David and Cindy Sofer - Academia.edu, accessed March 16, 2026, https://www.academia.edu/34923120/The_Great_Inscription_of_Tukulti_Ninurta_I_King_of_Assyria_from_the_Collection_of_David_and_Cindy_Sofer
+Enthroning God in the Temple with the Song of the Sea - TheTorah.com, accessed March 16, 2026, https://www.thetorah.com/article/enthroning-god-in-the-temple-with-the-song-of-the-sea
+Reading Ugaritic Narrative-Poetry: The Epic Description of Kirta's Expedition to Udum in KTU 1.14 - Journal of the Ancient Near Eastern Society, accessed March 16, 2026, https://janes.scholasticahq.com/api/v1/articles/32971-reading-ugaritic-narrative-poetry-the-epic-description-of-kirta-s-expediation-to-udum-in-ktu-1-14.pdf
+Which Archaeological Finds Support the Bible? - TheCollector, accessed March 16, 2026, https://www.thecollector.com/which-archeological-find-support-bible/
+accessed March 16, 2026, https://reformedperspectives.org/articles/tre_longman/tre_longman.DW.html#:~:text=von%20Rad%20argued%20that%20the,early%20Israelite%20Holy%20War%20tradition.
+Holy War in Ancient Israel - Gerhard von Rad - Google Books, accessed March 16, 2026, https://books.google.com/books/about/Holy_War_in_Ancient_Israel.html?id=eZs0D-Ojxs4C
+Chapter 4: Yahweh: Warrior God - Religion Online, accessed March 16, 2026, https://www.religion-online.org/book-chapter/chapter-4-yahweh-warrior-god/
+The Divine Warrior :The New Testament Use of an Old Testament Motif, accessed March 16, 2026, https://reformedperspectives.org/articles/tre_longman/tre_longman.DW.html
+7. The Royal Battle Pattern in the Biblical Tradition - PALNI Pressbooks, accessed March 16, 2026, https://pressbooks.palni.org/mightyinbattle/chapter/7the-royal-battle-pattern-in-the-bible/
+REVIEWS SIGMUND MOWINCKEL, Han som kommer. Messiasforventningen i Det Gamle Testament og pÅ Jesu tid. Copenhagen, G. E. C. Gads - Brill, accessed March 16, 2026, https://brill.com/view/journals/vt/1/1/article-p311_54.pdf
+Gersonides' "Wars of the Lord" Vol. 3 | PDF | Nous | Soul - Scribd, accessed March 16, 2026, https://www.scribd.com/document/35439717/Levi-Ben-Gershom-the-Wars-of-the-Lord
+RaLBaG). Milchamoth Hashem [“Wars of the Lord”: philosophy] - Kestenbaum & Company, accessed March 16, 2026, https://www.kestenbaum.net/042-211-ralbag-milchamoth-hashem-wars-of-the-lord-philosophy
+Gersonides - Wikipedia, accessed March 16, 2026, https://en.wikipedia.org/wiki/Gersonides
+The wars of the Lord / Levi ben Gershom (Gersonides) ; translated with an introduction and notes by... - National Library of Australia, accessed March 16, 2026, https://nla.gov.au/nla.cat-vn638187
+Commentators:R. Moshe b. Nachman (Ramban, Nachmanides)/0 - AlHaTorah.org, accessed March 16, 2026, https://alhatorah.org/Commentators:R._Moshe_b._Nachman_(Ramban,_Nachmanides)/0?useskin=vector
+Fast Facts on "Lost" Books of the Bible - The Daily Apologist, accessed March 16, 2026, https://thedailyapologist.com/blog/fast-facts-on-lost-books-of-the-bible
+What You Should Know about the Lost Books of the Bible, accessed March 16, 2026, https://www.biblestudytools.com/bible-study/topical-studies/what-you-should-know-about-the-lost-books-of-the-bible.html
+Is JASHER Scripture? 20 Considerations | by Street Theologian - Medium, accessed March 16, 2026, https://streettheologian.medium.com/is-jasher-scripture-20-considerations-34ab3bf73648
+Book of the wars of the Lord : r/AcademicBiblical - Reddit, accessed March 16, 2026, https://www.reddit.com/r/AcademicBiblical/comments/1afm7hf/book_of_the_wars_of_the_lord/
+The Lost Books of the Bible and the Forgotten Books of Eden - Wikipedia, accessed March 16, 2026, https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+What are the lost books of the Bible? - GotQuestions.org, accessed March 16, 2026, https://www.gotquestions.org/lost-books-Bible.html

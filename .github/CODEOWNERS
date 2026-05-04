@@ -1,0 +1,25 @@
+# CODEOWNERS - GitHub Code Ownership Rules
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repository
+* @Unhero767
+
+# ML Infrastructure - Critical modules
+src/mlaos_infra/*.py @Unhero767
+src/mlaos_features/*.py @Unhero767
+
+# Database schemas
+sql/*.sql @Unhero767
+
+# CI/CD workflows and configurations
+.github/workflows/*.yml @Unhero767
+.github/CODEOWNERS @Unhero767
+
+# Tests require ML expertise
+tests/*.py @Unhero767
+
+# Documentation and project files
+README.md @Unhero767
+CONTRIBUTING.md @Unhero767
+LICENSE @Unhero767
+requirements.txt @Unhero767
