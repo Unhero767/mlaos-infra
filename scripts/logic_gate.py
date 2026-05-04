@@ -1,21 +1,36 @@
 import sys
-import argparse
+import os
 
-def evaluate_logic(strict_dogma: bool):
-    print("--- [LOGIC PHASE: DIALECTICAL INQUIRY] ---")
-    print("Status: Assessing ◦A Consistency...")
+def dialectical_scan():
+    print("--- [LODGE AUDIT: DISCERNING THE ASHLAR] ---")
     
-    # Internal Protocol: Verify if the architecture remains 'Plumb'
-    # In a strange universe, consistency is the only law.
-    consistency = True 
+    violations = []
+    forbidden_terms = ["TODO", "FIXME", "print("] 
     
-    if strict_dogma and not consistency:
-        print("RESULT: Metalogical Burn detected. Ex◦ triggered.")
-        sys.exit(1)
-    
-    print("SUCCESS: The Manifold is stable. The candidate may proceed.")
+    for root, dirs, files in os.walk("."):
+        if any(ignored in root for ignored in ["node_modules", ".git", "scripts"]): 
+            continue
+        for file in files:
+            if file.endswith((".py", ".ts")):
+                try:
+                    with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                        for i, line in enumerate(f):
+                            for term in forbidden_terms:
+                                if term in line:
+                                    violations.append(f"{file} [Line {i+1}]: {term}")
+                except Exception:
+                    continue
+
+    if violations:
+        print("ERROR: Metalogical Noise detected in the Manifold:")
+        for v in violations: print(f"  > {v}")
+        return False
+    return True
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--strict-dogma', action='store_true')
-    evaluate_logic(parser.parse_args().strict_dogma)
+    if dialectical_scan():
+        print("SUCCESS: ◦A is preserved. The logic is plumb.")
+        sys.exit(0)
+    else:
+        print("RESULT: Candidate rejected. Polishing required.")
+        sys.exit(1)
